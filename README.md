@@ -4,6 +4,7 @@ Windows & MAC Builds
 ### Post-Playtest Questions
 #### (I thrive on feedback, so no need to sugar-coat 🧂✨)
 - Please describe/narrate your experience: who do you play as? What do you do? What happens around you? (no need to stick to my presentations - ignore those altogether actually, just tell me what story you ended up playing ❤️)
+- What was your objective, if you identified any? If so, how soon did you identify it/them?
 - The UI is presently bare-bones, however the steps are there; how guided did the experience feel?
 - How were you challenged by the prototype, if at all?
 - Please identify the most frustating moments experienced while playtesting.
